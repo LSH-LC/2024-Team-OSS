@@ -51,12 +51,7 @@
 
 ### 2️⃣ 해상도
 #### ✓ WIDTH, HEIGHT
-공 튀기기 게임, 미로탈출 게임 = 800, 600<br>
-뱀 게임 = 600, 400
-#### ✓ screen = pygame.display.set_mode((WIDTH, HEIGHT))
-설정한 넓이와 높이로 스크린 설정
-#### ✓ pygame.display.set_caption :Bounce Ball Game, Snake Game, Maze Escape
-스크린 이름을 다음과 같이 설정
+태양계 모습 = 1200, 800<br>
 <br><br>
 
 ## 팀
