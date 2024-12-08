@@ -1,9 +1,6 @@
 # 오픈소스소프트웨어 팀프로젝트
 <br><br>
 
-* * *
-
-* * *
 <br>
 
 ## 목차
@@ -24,9 +21,6 @@
 태양계를 시간에 따라 변화하는 모습을 표현
 <br><br>
 
-
-##### 게임 설명
-
 ##### 게임 설명
 - **조작법** : 시간을 조정해 원하는 시간대를 찾는다.
 - **특징** : 특정시간의 각 행성의 위치를 찾는다.
@@ -34,7 +28,7 @@
   
 <br>
 
-[About the Game](https://github.com/YUM-MING/The-Adventures-Of-The-Seven/blob/main/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C%20%EA%B2%8C%EC%9E%84.md)
+[태양계 표현](https://github.com/YUM-MING/The-Adventures-Of-The-Seven/blob/main/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C%20%EA%B2%8C%EC%9E%84.md)
 <br><br>
 
 ## 게임 기능
